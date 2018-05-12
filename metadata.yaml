@@ -1,0 +1,34 @@
+_repo: La-conquista-di-Roma_42316
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42316-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Scarfoglia, Matilde Serao
+    - Serao-Scarfoglia, Matilde
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42316'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Rome (Italy) -- Fiction'
+- !lcsh 'Italian fiction'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: La conquista di Roma
+url: http://www.gutenberg.org/ebooks/42316
